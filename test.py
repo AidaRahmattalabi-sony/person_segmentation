@@ -1,3 +1,8 @@
+''' Original code was released under MIT License. Code is adapted from https://github.com/liruilong940607/Pose2Seg. 
+It is the official code for the paper "Pose2Seg: Detection Free Human Instance Segmentation"[ProjectPage][arXiv] @ CVPR2019.
+'''
+
+
 import argparse
 import numpy as np
 from tqdm import tqdm
